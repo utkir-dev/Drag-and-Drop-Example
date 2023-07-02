@@ -1,7 +1,10 @@
 # Drag-and-Drop-Example
 
 Java and Kotlin (xml) example
-https://github.com/utkir-dev/Drag-and-Drop-Example/assets/100005918/3d3d9a37-fe67-457b-bf7c-f8e2aa7094dd
+
+https://github.com/utkir-dev/Drag-and-Drop-Example/assets/100005918/e037fc6e-a332-4038-9342-698211e51e6d
+
+
 
 
 Jetpack Compose example
